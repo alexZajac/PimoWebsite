@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Algorithmie et organigramme": ["algo_orga", "algo_tests", "algo_exercices"],
+    "Boucles et fonction": ["boucle_fonction", "boucle_tests", "boucle_exercices"],
+    "Example3": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
