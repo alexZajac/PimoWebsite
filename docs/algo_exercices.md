@@ -5,3 +5,5 @@ sidebar_label: Exercices
 ---
 
 Hello world!
+
+![](./../website/static/img/undraw_code_review.svg)

@@ -1,8 +1,18 @@
 {
   "docs": {
-    "Algorithmie et organigramme": ["algo_orga", "algo_tests", "algo_exercices"],
-    "Boucles et fonction": ["boucle_fonction", "boucle_tests", "boucle_exercices"],
-    "Example3": ["doc3"]
+    "Algorithmie et organigramme": [
+      "algo_orga",
+      "algo_tests",
+      "algo_exercices"
+    ],
+    "Boucles et fonction": [
+      "boucle_fonction",
+      "boucle_tests",
+      "boucle_exercices"
+    ],
+    "LARP - Initiation": ["larp1", "larp1_tests", "larp1_exercices"],
+    "TD 4": ["td4", "td4_tests", "td4_exercices"],
+    "LARP - Modules": ["larp2", "larp2_tests", "larp2_exercices"]
   },
   "docs-other": {
     "First Category": ["doc4", "doc5"]
