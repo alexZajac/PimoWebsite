@@ -1,5 +1,5 @@
 ---
-id: larp1_exercices
+id: larp1_ressources
 sidebar_label: Exercices
 title: Exercices
 ---

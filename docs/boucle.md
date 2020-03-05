@@ -1,6 +1,6 @@
 ---
-id: boucle_fonction
-title: TD 2 - Boucles et Fonctions
+id: boucle
+title: TD 2 - Boucles
 sidebar_label: Récap'
 ---
 

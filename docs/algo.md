@@ -1,6 +1,6 @@
 ---
-id: algo_orga
-title: TD 1 - Algorithmie et Organigrammes
+id: algo
+title: TD 1 - Algorithmie
 sidebar_label: Récap'
 ---
 
@@ -20,7 +20,3 @@ A quoi ça sert ?
 
 Un **algorithme** sert à décrire les étapes de résolution d’un problème, qui peuvent ensuite être implémentées dans n’importe quel langage de **programmation**.
 Un algorithme est généralement exprimé dans un langage **informel** (texte, organigramme ou pseudo-code).
-
-## Organigramme
-
-![orga-explanation](./assets/algo_2.png)
