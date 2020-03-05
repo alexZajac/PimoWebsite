@@ -8,6 +8,12 @@
 // See https://docusaurus.io/docs/site-config for all the possible
 // site configuration options.
 
+const colors = {
+  main: "#23967F",
+  light: "#4BE3C5",
+  shade: "#0A4A3D"
+};
+
 // List of projects/orgs using your project for the users page.
 const users = [
   // {
@@ -21,7 +27,7 @@ const users = [
 ];
 
 const siteConfig = {
-  title: "Algortihm Learning", // Title for your website.
+  title: "Algorithm Learning", // Title for your website.
   tagline: "Apprendre l'algorithmie plus facilement",
   url: "https://your-docusaurus-test-site.com", // Your website URL
   baseUrl: "/", // Base URL for your project */
@@ -38,25 +44,29 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { doc: "algo_orga", label: "TD 1" },
-    { doc: "boucle_fonction", label: "TD 2" },
-    { doc: "larp1", label: "TD 3" },
-    { doc: "td4", label: "TD 4" },
-    { doc: "larp2", label: "TD 5" }
+    { doc: "algo", label: "Algorithmes" },
+    { doc: "orga", label: "Organigrammes" },
+    { doc: "boucle", label: "Boucles" },
+    { doc: "fonction", label: "Fonctions" },
+    { doc: "larp1", label: "Initiation LARP" },
+    { doc: "larp2", label: "Modules LARP" }
   ],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: "img/favicon.ico",
-  footerIcon: "img/favicon.ico",
-  favicon: "img/favicon.ico",
+  headerIcon: "img/favicon_white.png",
+  footerIcon: "img/favicon.png",
+  favicon: "img/favicon.png",
 
   /* Colors for website */
   colors: {
     primaryColor: "#23967F",
-    secondaryColor: "#7DAF9C"
+    secondaryColor: "#4BE3C5",
+    tertiaryColor: "#0A4A3D",
+    tintPrimary: "#964123",
+    tintSecondary: "#4A1502"
   },
 
   /* Custom fonts for website */
