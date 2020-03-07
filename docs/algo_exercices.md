@@ -1,6 +1,6 @@
 ---
 id: algo_exercices
-title: Exercices sur l'Algorithmie
+title: Exercices sur l'Algorithmie - Pseudo-code
 sidebar_label: Exercices
 ---
 
