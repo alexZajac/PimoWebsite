@@ -14,11 +14,11 @@ grand
 <details>
 	<summary>Correction 1</summary>
 
-	![correction1](./assets/orga_exercice_1)
+	![correction1](./assets/orga_exercice_1.png)
 </details>
 
 <details>
 	<summary>Correction 2</summary>
 
-	![correction2](./assets/orga_exercice_2)
+	[correction2](./assets/orga_exercice_2.png)
 </details>

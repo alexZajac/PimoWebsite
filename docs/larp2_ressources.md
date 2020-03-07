@@ -1,7 +1,7 @@
 ---
 id: larp2_ressources
 sidebar_label: Exercices
-title: Exercices
+title: Ressources
 ---
 
 # Ressources Pour Approfondir LARP

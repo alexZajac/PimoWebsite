@@ -41,6 +41,8 @@ sidebar_label: Ressources
 
 ### 🚀 A faire
 
+[Exercice 1](./algo_exercices)
+
 ## 🏄‍♀️ J'ai tout compris, c'est trop facile
 > Tiens toi prêt, c'est du lourd!
 
