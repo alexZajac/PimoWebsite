@@ -1,6 +1,6 @@
 ---
 id: larp2_ressources
-sidebar_label: Exercices
+sidebar_label: Ressources
 title: Ressources
 ---
 

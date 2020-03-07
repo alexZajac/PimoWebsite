@@ -48,6 +48,8 @@ sidebar_label: Ressources
 
 ### 📖 A lire
 
+[Les bases pour écrire un pseudo_code](https://h-deb.clg.qc.ca/CLG/Cours/Bon-Pseudocode.html)
+
 ### 🍿 A regarder
 
 ### 🚀 A faire

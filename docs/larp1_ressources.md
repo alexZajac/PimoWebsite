@@ -1,7 +1,7 @@
 ---
 id: larp1_ressources
-sidebar_label: Exercices
-title: Ressources
+sidebar_label: Ressources
+title: Larp Initiation - Ressources
 ---
 
 hello world
