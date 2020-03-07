@@ -20,7 +20,7 @@ sidebar_label: Ressources
 
 ### 🍿 A regarder
 
-[Explication sur l'Algortihmique sur YouTube](https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA)
+[Explication sur l'Algorithmique sur YouTube](https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA)
 
 
 ### 🚀 A faire
@@ -36,6 +36,8 @@ sidebar_label: Ressources
 <iframe style="width:100%; height:600px; border:2px solid black" src="https://apprendre-la-programmation.net/debutant-ecrire-facilement-algorithme/"></iframe>
 
 ### 🍿 A regarder
+
+[Vidéo sur le Pseudo-code et la complexité](https://www.youtube.com/watch?v=pSJhyUiI9kE)
 
 ### 🚀 A faire
 
