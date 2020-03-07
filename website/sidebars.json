@@ -1,10 +1,10 @@
 {
   "docs": {
-    "Algorithmie": ["algo", "algo_ressources"],
-    "Organigrammes": ["orga", "orga_ressources"],
-    "Boucles": ["boucle", "boucle_ressources"],
-    "Fonctions": ["fonction", "fonction_ressources"],
-    "LARP - Initiation": ["larp1", "larp1_ressources"],
-    "LARP - Modules": ["larp2", "larp2_ressources"]
+    "Algorithmie": ["algo", "algo_ressources","algo_exercices"],
+    "Organigrammes": ["orga", "orga_ressources","orga_exercices"],
+    "Boucles": ["boucle", "boucle_ressources","boucle_exercices"],
+    "Fonctions": ["fonction", "fonction_ressources","fonction_exercices"],
+    "LARP - Initiation": ["larp1", "larp1_ressources","larp1_exercices"],
+    "LARP - Modules": ["larp2", "larp2_ressources","larp2_exercices"]
   }
 }
