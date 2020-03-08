@@ -4,12 +4,7 @@ title: Exercices sur l'Algorithmie - Larp-Initiation
 sidebar_label: Exercices
 ---
 
-
 Voici quelques exercices corrigés pour t'entrainer à créer des programmes sur LARP.
-
-[Exercice 1](#exercice-1)  
-[Exercice 2](#exercice-2)  
-[Exercice 3](#exercice-3)
 
 ---
 ## Exercice 1

@@ -20,8 +20,8 @@ sidebar_label: Ressources
 
 ### 🍿 A regarder
 
-[Explication sur l'Algorithmique sur YouTube](https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA)
-
+[Explication sur l'Algorithmique sur YouTube](https://www.youtube.com/watch?v=fgcGdkhtUcE&list=PLU1uhUPH-DQDup76tvg6XnRjkR719AaFA)  
+[Si tu n'as pas bien compris, voici une autre introduction à l'algorthmie](https://www.youtube.com/watch?v=rKkxWayZPHM)
 
 ### 🚀 A faire
 
@@ -35,21 +35,14 @@ sidebar_label: Ressources
 [Ecrire facilement des algorithmes](https://apprendre-la-programmation.net/debutant-ecrire-facilement-algorithme/)
 <iframe style="width:100%; height:600px; border:2px solid black" src="https://apprendre-la-programmation.net/debutant-ecrire-facilement-algorithme/"></iframe>
 
-### 🍿 A regarder
-
-[Vidéo sur le Pseudo-code et la complexité](https://www.youtube.com/watch?v=pSJhyUiI9kE)
-
 ### 🚀 A faire
 
-[Exercice 1](./algo_exercices)
+[Exercices 1 à 3](./algo_exercices)
 
 ## 🏄‍♀️ J'ai tout compris, c'est trop facile
 > Tiens toi prêt, c'est du lourd!
 
-### 📖 A lire
-
-[Les bases pour écrire un pseudo_code](https://h-deb.clg.qc.ca/CLG/Cours/Bon-Pseudocode.html)
-
 ### 🍿 A regarder
 
-### 🚀 A faire
+[Complexité des algorithmes](https://www.youtube.com/watch?v=c2HzJEEpWmU)
+
