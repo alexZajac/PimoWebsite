@@ -23,12 +23,3 @@ sidebar_label: Ressources
 ### 🍿 A regarder
 
 ### 🚀 A faire
-
-## 🏄‍♀️ J'ai tout compris, c'est trop facile
-> Tiens toi prêt, c'est du lourd!
-
-### 📖 A lire
-
-### 🍿 A regarder
-
-### 🚀 A faire

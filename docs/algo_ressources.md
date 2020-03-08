@@ -32,6 +32,9 @@ sidebar_label: Ressources
 
 ### 📖 A lire
 
+[Les bases pour écrire un pseudo_code](https://h-deb.clg.qc.ca/CLG/Cours/Bon-Pseudocode.html)
+
+
 [Ecrire facilement des algorithmes](https://apprendre-la-programmation.net/debutant-ecrire-facilement-algorithme/)
 <iframe style="width:100%; height:600px; border:2px solid black" src="https://apprendre-la-programmation.net/debutant-ecrire-facilement-algorithme/"></iframe>
 
@@ -42,14 +45,3 @@ sidebar_label: Ressources
 ### 🚀 A faire
 
 [Exercice 1](./algo_exercices)
-
-## 🏄‍♀️ J'ai tout compris, c'est trop facile
-> Tiens toi prêt, c'est du lourd!
-
-### 📖 A lire
-
-[Les bases pour écrire un pseudo_code](https://h-deb.clg.qc.ca/CLG/Cours/Bon-Pseudocode.html)
-
-### 🍿 A regarder
-
-### 🚀 A faire
