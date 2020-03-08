@@ -24,9 +24,6 @@ sidebar_label: Ressources
 - [Ce qu'il faut retenir](https://docs.google.com/viewerng/viewer?url=https://cjezegou.fr/wp-content/uploads/2017/01/FC-organigramme.pdf&hl=fr)
 
 ### 🍿 A regarder
-<<<<<<< HEAD
 - [Cours vidéo approfondi](https://www.youtube.com/watch?v=JTZ67-4wXKw)
-=======
->>>>>>> 38bd346905a0a1b68437d399dc977f86be9334e7
 
 ### 🚀 A faire
