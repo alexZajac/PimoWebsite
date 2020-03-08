@@ -6,8 +6,6 @@ sidebar_label: Exercices
 
 Voici quelques exercices corrigés pour t'entrainer à utiliser les modules sur LARP.
 
-[Exercice 1](#exercice-1)  
-
 ---
 ## Exercice 1
 

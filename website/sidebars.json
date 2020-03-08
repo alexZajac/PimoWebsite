@@ -1,6 +1,7 @@
 {
   "docs": {
     "Algorithmie": ["algo", "algo_ressources","algo_exercices"],
+    "Pseudo-code": ["pseudo-code","pseudo-code_ressources","pseudo-code_exercices"],
     "Organigrammes": ["orga", "orga_ressources","orga_exercices"],
     "Boucles": ["boucle", "boucle_ressources","boucle_exercices"],
     "Fonctions": ["fonction", "fonction_ressources","fonction_exercices"],

@@ -4,6 +4,10 @@ title: Exercices sur l'Algorithmie - Organigrammes
 sidebar_label: Exercices
 ---
 
+Voici quelques exercices corrigés pour t'entrainer sur les organigrammes.
+
+---
+
 ## Exercice 1 
 
 Ecrire un organigramme qui lit deux nombre A, B et affiche le plus

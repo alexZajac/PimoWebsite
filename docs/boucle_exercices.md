@@ -4,6 +4,7 @@ title: Exercices sur l'Algorithmie - Boucles
 sidebar_label: Exercices
 ---
 
+<<<<<<< HEAD
 Voici quelques exercices corrigés pour t'entrainer sur les algorithmes.
 [Exercice 1](#exercice-1)
 [Exercice 2](#exercice-2)  
@@ -55,3 +56,10 @@ ensuite quel était le plus grand parmi ces 20 nombres :
 
 
 
+=======
+Voici quelques exercices corrigés pour t'entrainer sur les boucles. Tu dois déjà savoir écrire des pseudos code et organigrammes avant de pouvoir faire certains exercices.
+
+---
+
+## Exercices
+>>>>>>> d2946c0011e8d39056ac703e949661caebe750e8

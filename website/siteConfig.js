@@ -45,6 +45,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     { doc: "algo", label: "Algorithmes" },
+    { doc: "pseudo-code", label: "Pseudo-code"},
     { doc: "orga", label: "Organigrammes" },
     { doc: "boucle", label: "Boucles" },
     { doc: "fonction", label: "Fonctions" },
