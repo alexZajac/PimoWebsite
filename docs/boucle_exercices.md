@@ -1,6 +1,6 @@
 ---
 id: boucle_exercices
-title: Exercices sur l'Algorithmie - Boucles
+title: Exercices sur les Boucles
 sidebar_label: Exercices
 ---
 

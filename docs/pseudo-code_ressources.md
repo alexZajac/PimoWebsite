@@ -10,8 +10,9 @@ sidebar_label: Ressources
 
 ### 📖 A lire
 
-[Les bases pour écrire un pseudo_code](https://h-deb.clg.qc.ca/CLG/Cours/Bon-Pseudocode.html)  
-[Une autre ressource pour savoir écrire un pseudo-code](http://isn.codelab.info/ressources/algorithmique/memo-pseudo-codes/)
+[Les bases pour écrire un pseudo code](https://h-deb.clg.qc.ca/CLG/Cours/Bon-Pseudocode.html)
+<iframe style="width:100%; height:600px; border:2px solid black" src="http://isn.codelab.info/ressources/algorithmique/memo-pseudo-codes/"></iframe>
+
 
 ### 🍿 A regarder
 
@@ -27,7 +28,7 @@ sidebar_label: Ressources
 
 ### 📖 A lire
 
-[Documentation assez complète sur les pseudo-codes et leur contenu](https://info.blaisepascal.fr/pseudo-code)
+<iframe style="width:100%; height:600px; border:2px solid black" src="https://info.blaisepascal.fr/pseudo-code"></iframe>
 
 ### 🍿 A regarder
 
@@ -38,5 +39,5 @@ sidebar_label: Ressources
 
 ### 🚀 A faire
 
-[Exercice 2 et 3](./assets/pseudo-code_exercices)
+[Exercice 2 et 3](./pseudo-code_exercices)
 

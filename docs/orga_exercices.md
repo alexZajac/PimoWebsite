@@ -1,6 +1,6 @@
 ---
 id: orga_exercices
-title: Exercices sur l'Algorithmie - Organigrammes
+title: Exercices sur les Organigrammes
 sidebar_label: Exercices
 ---
 

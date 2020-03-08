@@ -1,6 +1,6 @@
 ---
 id: larp1
-title: TD 3 - Initiation LARP
+title: Initiation LARP
 sidebar_label: Récap'
 ---
 

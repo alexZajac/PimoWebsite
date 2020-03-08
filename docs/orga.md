@@ -1,6 +1,6 @@
 ---
 id: orga
-title: TD 1 - Organigrammes
+title: Organigrammes
 sidebar_label: Récap'
 ---
 

@@ -40,9 +40,6 @@ sidebar_label: Ressources
 
 ### 🚀 A faire
 
-<<<<<<< HEAD
-[Exercice 1](./algo_exercices)
-=======
 [Exercices 1 à 3](./algo_exercices)
 
 ## 🏄‍♀️ J'ai tout compris, c'est trop facile
@@ -52,4 +49,3 @@ sidebar_label: Ressources
 
 [Complexité des algorithmes](https://www.youtube.com/watch?v=c2HzJEEpWmU)
 
->>>>>>> d2946c0011e8d39056ac703e949661caebe750e8

@@ -38,7 +38,6 @@ Explication sur l'Algorithmique sur YouTube
 [Explications et exemples pour bien comprendre cette notion](http://pise.info/algo/boucles.htm)
 <iframe style="width:100%; height:600px; border:2px solid black" src="http://pise.info/algo/boucles.htm"></iframe>
 
-
 ### 🍿 A regarder
 
 ### 🚀 A faire
