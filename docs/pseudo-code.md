@@ -129,3 +129,9 @@ On aurait aussi très bien pu écrire le pseudo-code de cette manière :
 - Entête : On y indique le nom de l'algorithme, et ce qu'il fait. Dans certains pseudo-code il n'y a pas d'entête, mais c'est toujours mieux de la préciser !
 - Déclaration des variables : On y retrouve le nom des variables ainsi que leurs types.
 - Corps : il commence toujours par "DEBUT" et se termine toujours par "FIN". C'est ici que l'on écrit les différentes étapes de l'algorithme.
+
+C'est l'essentiel de ce qu'il faut retenir pour la partie sur le pseudo-code! 💻
+
+Si vous vous sentez toujours perdu ou voulez approfondir votre connaissance, allez [ici.](./pseudo-code_ressources.md)
+
+Si vous voulez passer directement au exercices, c'est par [ici.](./pseudo-code_exercices.md)

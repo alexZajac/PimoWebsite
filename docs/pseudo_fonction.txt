@@ -1,0 +1,26 @@
+Fonction AjouterPatesSable(P1: réel (qté1 de paté), P2: réel (qté2 de paté), S: réel (qté du château)) : réel (qté de paté)
+Début
+    Ajouter P1 à S
+    Ajouter P2 à S
+    Retourner S 
+FinFonction
+
+
+
+Fonction ModelerSable(P1: réel (partie1 du château), P2: réel (partie2 du château), C: réel (château)) : réel (qté de paté)
+Début
+    Modeler P1 sur C
+    Modeler P2 sur C
+    Retourner S 
+FinFonction
+
+
+
+Fonction EstChateauFini(C: réel (château)) : booléen (a t-on fini)
+Début
+    Si la hauteur de C est > 50cm ET la largeur de C est > 1m Alors
+        Retourner VRAI
+    Sinon 
+        Retourner FAUX
+    FinSi
+FinFonction

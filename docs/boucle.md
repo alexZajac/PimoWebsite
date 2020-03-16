@@ -31,6 +31,8 @@ On vous a fait un petit tableau récapitulatif des différents types de boucles
 | _Quand choisir “pour” ou “tant que” ?_ | Si la boucle s’arrête sur un évènement particulier                                                          | Si le nombre d’itération est connu à l’avance                                                                                                                                            |                                                                                                              |
 | _Exemples_                             | ![](./assets/boucle_tant_que.png)                                                                           | ![](./assets/boucle_pour.png)                                                                                                                                                            | ![](./assets/boucle_repeter.png)                                                                             |
 
+C'est l'essentiel de ce qu'il faut retenir pour la partie sur les Boucles! 💻
+
 Si vous vous sentez toujours perdu ou voulez approfondir votre connaissance, allez [ici.](./boucle_ressources.md)
 
 Si vous voulez passer directement au exercices, c'est par [ici.](./boucle_exercices.md)

@@ -14,11 +14,7 @@ sidebar_label: Ressources
 
 [Explications et exemples pour bien comprendre cette notion](http://villemin.gerard.free.fr/Wwwgvmm/Logique/IAalgorD.htm)
 
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://villemin.gerard.free.fr/Wwwgvmm/Logique/IAalgorD.htm"></iframe>
-
 [Introduction a l’Algorithmique](http://pise.info/algo/introduction.htm)
-
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://pise.info/algo/introduction.htm"></iframe>
 
 ### 🍿 A regarder
 
@@ -46,8 +42,13 @@ sidebar_label: Ressources
 [Exercices 1 à 3](./algo_exercices)
 
 ## 👩‍💻 J'ai compris les bases, mais je veux approfondir
+
 > Tiens toi prêt, c'est du lourd!
 
 ### 🍿 A regarder
 
 [Complexité des algorithmes](https://www.youtube.com/watch?v=c2HzJEEpWmU)
+
+### 🚀 A faire
+
+[Cours complet sur les algorithmes Open Classrooms](https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes)

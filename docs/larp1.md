@@ -40,11 +40,11 @@ _http://larp.marcolavoie.ca/fr/Files/LarpFrV3.pdf_
 
 De la même manière que pour les organigrammes, il est possible de glisser-déposer des morceaux de code. Par exemple, ci-dessous on a un bloc où l’on peut modifier directement notre condition initiale et la suite des instructions :
 
-	SI {condition} ALORS
-	    {suite_instructions}
-	SINON
-	    {suite_instructions}
-	FINSI
+    SI {condition} ALORS
+        {suite_instructions}
+    SINON
+        {suite_instructions}
+    FINSI
 
 ### Syntaxe du pseudo-code LARP
 
@@ -69,3 +69,9 @@ _http://larp.marcolavoie.ca/fr/Files/LarpFrV3.pdf_
 • **L'affectation de valeurs** aux variables se fait à l'aide de l'opérateur d'affectation (=)
 
 ![](assets/larp_7.png)
+
+C'est l'essentiel de ce qu'il faut retenir pour la partie sur l'initiation à Larp! 💻
+
+Si vous vous sentez toujours perdu ou voulez approfondir votre connaissance, allez [ici.](./larp1_ressources.md)
+
+Si vous voulez passer directement au exercices, c'est par [ici.](./larp1_exercices.md)

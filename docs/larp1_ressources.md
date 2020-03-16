@@ -7,12 +7,12 @@ title: Ressources
 # Ressources Pour Approfondir LARP
 
 ## 🏁 Je n'ai rien compris, on reprend de 0
-> Pas de panique, on a tout ce qu'il faut! 
+
+> Pas de panique, on a tout ce qu'il faut!
 
 ### 📖 A lire
 
 [Introduction rapide a LARP](http://blog.conceptforge.ch/index.php/introduction-a-larp/)
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://blog.conceptforge.ch/index.php/introduction-a-larp/"></iframe>
 
 ### 🍿 A regarder
 
@@ -24,12 +24,12 @@ title: Ressources
 [Exercices 1, 2 et 3 avec corrigés](./larp1_exercices.md)
 
 ## 👩‍💻 J'ai compris les bases, mais je veux approfondir
+
 > Super, voici ce que tu peux approfondir!
 
 ### 📖 A lire
 
 [Un step-by-step complet sur LARP](http://public.iutenligne.net/informatique/algorithme-et-programmation/raffinat/algo/algo/algo_intro.html)
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://public.iutenligne.net/informatique/algorithme-et-programmation/raffinat/algo/algo/algo_intro.html"></iframe>
 
 ### 🍿 A regarder
 
@@ -38,4 +38,3 @@ title: Ressources
 ### 🚀 A faire
 
 [Exercices 1, 2 et 3 avec corrigés](./larp1_exercices.md)
-

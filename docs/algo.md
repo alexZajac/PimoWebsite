@@ -36,7 +36,7 @@ _Ce que vous avez au départ_, c'est une infinité de sable mouillé, une pelle 
 
 _Ce que vous allez (surement) faire_, c'est de répéter un bon nombre de fois les étapes suivantes:
 
-- Poser des patés de sable sur la strcture principale
+- Poser des patés de sable sur la structure principale
 - Modeler le sable pour en faire des parties du château
 
 Et jusqu'à ce que vous puissiez arriver au château final.

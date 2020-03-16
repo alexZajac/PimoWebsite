@@ -40,8 +40,6 @@ Explication sur l'Algorithmique sur YouTube
 
 [Explications et exemples pour bien approfondir cette notion](http://pise.info/algo/boucles.htm)
 
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://pise.info/algo/boucles.htm"></iframe>
-
 [Invariants de boucles](https://fr.wikipedia.org/wiki/Invariant_de_boucle)
 
 <iframe style="width:100%; height:600px; border:2px solid black" src="https://fr.wikipedia.org/wiki/Invariant_de_boucle"></iframe>

@@ -1,6 +1,6 @@
 ---
 id: larp2
-title: TD 5 - Modules LARP
+title: Modules LARP
 sidebar_label: Récap'
 ---
 
@@ -56,3 +56,9 @@ Il existe plusieurs types de modules auxiliaires :
 - _Module avec valeur de retour_. La valeur de la variable "produit" est envoyée vers le module principal.
 
 ![](assets/larp_12.png)
+
+C'est l'essentiel de ce qu'il faut retenir pour la partie sur les modules Larp! 💻
+
+Si vous vous sentez toujours perdu ou voulez approfondir votre connaissance, allez [ici.](./larp2_ressources.md)
+
+Si vous voulez passer directement au exercices, c'est par [ici.](./larp2_exercices.md)

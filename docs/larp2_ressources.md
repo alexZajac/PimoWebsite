@@ -7,12 +7,12 @@ title: Ressources
 # Ressources Pour Approfondir LARP
 
 ## 🏁 Je n'ai rien compris, on reprend de 0
-> Pas de panique, on a tout ce qu'il faut! 
+
+> Pas de panique, on a tout ce qu'il faut!
 
 ### 📖 A lire
 
 [Documentation officielle sur le Modules](http://larp.marcolavoie.ca/fr/DocHTM/11300.htm)
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://larp.marcolavoie.ca/fr/DocHTM/11300.htm"></iframe>
 
 ### 🍿 A regarder
 
@@ -23,14 +23,15 @@ title: Ressources
 [Exercice avec corrigé](./larp2_exercices.md)
 
 ## 👩‍💻 J'ai compris les bases, mais je veux approfondir
+
 > Super, voici ce que tu peux approfondir!
 
 ### 📖 A lire
 
 [Logiciels d'introduction à la Programmation](http://blog.conceptforge.ch/index.php/logiciel-dintroduction-a-la-programmation/)
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://blog.conceptforge.ch/index.php/logiciel-dintroduction-a-la-programmation/"></iframe>
 
 [Télécharger AlgoBox](https://www.xm1math.net/algobox/)
+
 <iframe style="width:100%; height:600px; border:2px solid black" src="https://www.xm1math.net/algobox/"></iframe>
 
 [Lociciel Scratch](https://scratch.mit.edu/)
@@ -50,8 +51,9 @@ title: Ressources
 ### 🚀 A faire
 
 [Des exercices variés sur Algobox](http://www.mathmaurer.com/info_algobox/01_les_bases/exercices/info_algobox_exos_01_les_bases.php)
-<iframe style="width:100%; height:600px; border:2px solid black" src="http://www.mathmaurer.com/info_algobox/01_les_bases/exercices/info_algobox_exos_01_les_bases.php"></iframe>
+
+[Compose tes organigrammes online](https://online.visual-paradigm.com/drive/#diagramlist:proj=0&new=Flowchart)
 
 [Je veux plus d'exos sur Algobox](https://www.methodemaths.fr/exoalgo/)
-<iframe style="width:100%; height:600px; border:2px solid black" src="https://www.methodemaths.fr/exoalgo/"></iframe>
 
+<iframe style="width:100%; height:600px; border:2px solid black" src="https://www.methodemaths.fr/exoalgo/"></iframe>
