@@ -50,7 +50,7 @@ Ecrire un algorithme qui demande à l’utilisateur deux entiers strictement pos
 
 Le module PGCD peut être écrit de différentes manières selon l’algorithme que l’on utilise. Ici est présenté l’algorithme d’Euclide qui est le plus utilisé pour ce calcul.
 
-<img src="./assets/larp_2_exercice_1.png" alt="formule" width="600"/>
+<img src="./assets/larp_2_exercice_1_2.png" alt="formule" width="600"/>
 
 [Explications en video](lien_vers_la_video)
 
@@ -58,7 +58,7 @@ Le module PGCD peut être écrit de différentes manières selon l’algorithme 
 
 Ce module est plus ou moins similaire pour toutes les réponses possibles. Tout dépend de la quantité d’informations que l’on souhaite afficher à l’utilisateur.
 
-<img src="./assets/larp_2_exercice_2.png" alt="formule" width="600"/>
+<img src="./assets/larp_2_exercice_1_1.png" alt="formule" width="600"/>
 
 [Explications en video](lien_vers_la_video)
 
@@ -79,7 +79,7 @@ Ecrire un algorithme qui demande à l’utilisateur 3 entiers et qui résout le 
 
 Le module POLY peut être écrit de différentes manières selon l’algorithme que l’on utilise. Ici on affiche également quand il n'y a pas de solution réelles.
 
-<img src="./assets/larp_2_exercice_1_1.png" alt="formule" width="600"/>
+<img src="./assets/larp_2_exercice_2_1.png" alt="formule" width="600"/>
 
 [Explications en video](lien_vers_la_video)
 
@@ -87,7 +87,7 @@ Le module POLY peut être écrit de différentes manières selon l’algorithme 
 
 Ce module est plus ou moins similaire pour toutes les réponses possibles. Tout dépend de la quantité d’informations que l’on souhaite afficher à l’utilisateur.
 
-<img src="./assets/larp_2_exercice_1_2.png" alt="formule" width="600"/>
+<img src="./assets/larp_2_exercice_2_2.png" alt="formule" width="600"/>
 
 [Explications en video](lien_vers_la_video)
 
