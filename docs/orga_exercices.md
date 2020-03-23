@@ -14,16 +14,16 @@ Ecrire un organigramme qui lit deux nombre A, B et affiche le plus
 grand
 
 <details>
-<summary>Correction 1</summary>
+<summary>**Correction possible**</summary>
 
-![correction1](./assets/orga_exercice_1.png)
+![correction1](./assets/orga_exercice_1_1.png)
 
 </details>
 
 <details>
-<summary>Correction 2</summary>
+<summary>**Autre correction possible**</summary>
 
-![correction2](./assets/orga_exercice_2.png)
+![correction2](./assets/orga_exercice_1_2.png)
 
 </details>
 
@@ -36,7 +36,7 @@ Ecrire un organigramme qui modélise le système de chauffage suivant:
 - Si le chauffage est en marche, tant que la température est inférieure à 20°C, il reste dans le même état, sinon, il revient à l'étape de mise en tension.
 
 <details>
-<summary>Correction possible</summary>
+<summary>**Correction possible**</summary>
 
 ![correction1](./assets/orga_exercice_2.png)
 
@@ -51,7 +51,7 @@ Ecrire un organigramme qui permet de modéliser une barrière de parking:
 - Sinon, la barrière reste ouverte avec un voyant vert jusqu'à ce que la voiture passe.
 
 <details>
-<summary>Une correction possible</summary>
+<summary>**Autre correction possible**</summary>
 
 ![correction1](./assets/orga_exercice_3.png)
 

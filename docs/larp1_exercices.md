@@ -30,7 +30,7 @@ Exemple : POUR i=1 JUSQU’A 3 → la boucle sera exécutée 3 fois et non 2
 </details>
 
 <details>
-<summary>**Correction**</summary>
+<summary>**Correction possible**</summary>
 
 - Correction 1:
 ![formule](./assets/larp_1_exercice_2.png)
@@ -80,7 +80,7 @@ Ne pas oublier d’affecter une valeur au bonus dans le cas où le salaire est s
 </details>
 
 <details>
-<summary>**Correction**</summary>
+<summary>**Correction possible**</summary>
 
 - Correction 1:
 ![formule](./assets/larp_1_exercice_4.png)
@@ -102,7 +102,7 @@ Ne pas oublier d’affecter une valeur au bonus dans le cas où le salaire est s
 Reprendre l’énoncé de l’exercice 2 et créer l’organigramme correspondant à votre solution
 
 <details>
-<summary>**Correction**</summary>
+<summary>**Correction possible**</summary>
 
 - Correction 1:
 

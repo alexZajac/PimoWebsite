@@ -26,7 +26,7 @@ Que fait cet algorithme ?
 	Fin
 
 <details>
-<summary>**Correction**</summary>
+<summary>**Correction possible**</summary>
 
 Cet algorithme demande à l’utilisateur un nombre compris entre 1 et 3 jusqu’à ce que la réponse convienne.
 
@@ -57,7 +57,7 @@ Si on fait s’exécuter cet algorithme en lui donnant en entrée les valeurs 3,
 	FinSi
 
 <details>
-<summary>**Correction**</summary>
+<summary>**Correction possible**</summary>
 
 L'algorithme affichera :
 	
@@ -75,7 +75,7 @@ L'algorithme affichera :
 Ecrire un programme en pseudo-code qui lit le prix HT d’un article, le nombre d’articles et le taux de TVA, et qui fournit le prix total TTC correspondant. Faire en sorte que des libellés apparaissent clairement.
 
 <details>
-<summary>**Correction**</summary>
+<summary>**Correction possible**</summary>
 	
 	Variables nb, pht, ttva, pttc en Numérique
 	Début
