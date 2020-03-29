@@ -16,7 +16,7 @@ Structure répétitive, également appelée structure itérative qui permet de r
 
 Exécution des instructions contenues dans une boucle.
 
-Pour reprendre l'exemple du [chateau de sable](./algo.md), une boucle représente un ensmeble d'actions que l'on va répéter, en vue d'obtenir un but final.
+Pour reprendre l'exemple du [chateau de sable](./algo.md), une boucle représente un ensemble d'actions que l'on va répéter, en vue d'obtenir un but final.
 
 C'est si _simple_ que ça!
 

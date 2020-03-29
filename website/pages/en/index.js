@@ -106,7 +106,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              "Des tonnes de contenu pour vous aider à comprendre ou aller plus loin.",
+              "Un grande et vatriée quantité de contenu pour vous aider à comprendre ou aller plus loin.",
             image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
             imageAlign: "left",
             title: "Des ressources pour vous aider!"

@@ -18,7 +18,7 @@ sidebar_label: Ressources
 
 ### 🚀 A faire
 
-[Exercice 1](./assets/pseudo-code_exercices)
+[Exercice 1](./pseudo-code_exercices)
 
 ## 👩‍💻 J'ai compris les bases, mais je veux approfondir
 

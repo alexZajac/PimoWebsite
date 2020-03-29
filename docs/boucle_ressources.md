@@ -20,8 +20,6 @@ sidebar_label: Ressources
 
 ### 🍿 A regarder
 
-Explication sur l'Algorithmique sur YouTube
-
 [Boucle Tant que](https://www.youtube.com/watch?v=aYXj0qpUL-Y)
 
 [Boucle Pour](https://www.youtube.com/watch?v=ZwZcT_e0yKw)
