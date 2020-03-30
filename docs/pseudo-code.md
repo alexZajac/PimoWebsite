@@ -18,6 +18,10 @@ _Savoir écrire un pseudo-code :_
 Connaître les différents types de **boucles**, les **conditions**, la **structure** d’un algorithme.
 Savoir comment manipuler les **variables**, afficher et lire.
 
+Voici une vidéo que nous avons réalisé afin que vous compreniez mieux le sujet:
+
+[<img src="http://i3.ytimg.com/vi/fNiMJVPQxD8/maxresdefault.jpg">](https://www.youtube.com/watch?v=fNiMJVPQxD8)
+
 ### Le Pseudo-code, c'est quoi ?
 
 Imaginez devoir écrire un programme informatique afin de répondre à un problème. Avant d'écrire directement la solution dans un langage de programmation en particulier, vous pouvez écrire un pseudo-code, une sorte de langage entre l'humain et l'ordinateur.
@@ -28,6 +32,10 @@ Voyons quels sont les différents éléments que l'on peut retrouver dans un pse
 ### Variable
 
 _Espace mémoire permettant de stocker des éléments comme des nombres, caractères, phrases ou autre._
+
+Voici une vidéo que nous avons réalisé afin que vous compreniez mieux le sujet:
+
+[<img src="http://i3.ytimg.com/vi/Z2wg8hl4JjM/hqdefault.jpg">](https://www.youtube.com/watch?v=Z2wg8hl4JjM)
 
 Une variable possède un **nom**, une **valeur**, un **type** et une **adresse**.
 

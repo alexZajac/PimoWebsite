@@ -14,7 +14,7 @@ _Séquence finie d’actions permettant de résoudre un problème. Un algorithme
 
 Voici une vidéo que nous avons réalisé afin que vous compreniez mieux le sujet:
 
-![Les algorithmes](lien_video_algo)
+[<img src="http://i3.ytimg.com/vi/BJC-DVVpmPw/maxresdefault.jpg">](https://www.youtube.com/watch?v=BJC-DVVpmPw)
 
 A quoi ça sert ?
 

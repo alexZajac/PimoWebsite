@@ -12,6 +12,10 @@ Une boucle, c'est quoi ?
 
 Structure répétitive, également appelée structure itérative qui permet de répéter plusieurs fois l’exécution d’une ou plusieurs instruction.
 
+Voici une vidéo que nous avons réalisé afin que vous compreniez mieux le sujet:
+
+[<img src="http://i3.ytimg.com/vi/PG7G_L9gvtQ/hqdefault.jpg">](https://www.youtube.com/watch?v=PG7G_L9gvtQ)
+
 ## Et une itération ?
 
 Exécution des instructions contenues dans une boucle.

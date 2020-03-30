@@ -16,7 +16,7 @@ _Un organigramme de programmation (parfois appelé algorigramme, logigramme ou p
 
 Voici une vidéo que nous avons réalisé afin que vous compreniez mieux le sujet:
 
-![Les organigrammes](lien_video_algo)
+[<img src="http://i3.ytimg.com/vi/fNiMJVPQxD8/maxresdefault.jpg">](https://www.youtube.com/watch?v=fNiMJVPQxD8)
 
 A quoi ça sert ?
 

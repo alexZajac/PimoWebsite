@@ -15,7 +15,7 @@ paramètres et retournant un seul résultat (une seule valeur) de type simple qu
 
 Voici une vidéo que nous avons réalisé afin que vous compreniez mieux le sujet:
 
-![Les fonctions](lien_video_algo)
+[<img src="http://i3.ytimg.com/vi/4Cer8Eiu6wE/hqdefault.jpg">](https://www.youtube.com/watch?v=4Cer8Eiu6wE)
 
 A quoi ça sert ?
 
