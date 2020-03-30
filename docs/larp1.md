@@ -72,6 +72,12 @@ _http://larp.marcolavoie.ca/fr/Files/LarpFrV3.pdf_
 
 C'est l'essentiel de ce qu'il faut retenir pour la partie sur l'initiation à Larp! 💻
 
+Maintenant vous avez deux possiblités:
+
+- Soit vous voulez tester vos aptitudes et effectuez le quiz sur [Brightspace]()
+
+- Soit vous préférez profiter de la richesse du site et appronfondir vos connaissances !
+
 Si vous vous sentez toujours perdu ou voulez approfondir votre connaissance, allez [ici.](./larp1_ressources.md)
 
 Si vous voulez passer directement au exercices, c'est par [ici.](./larp1_exercices.md)

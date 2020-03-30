@@ -40,6 +40,12 @@ Pour finir, il y a certaines règles qu'il ne faut pas oublier sur les Organigra
 
 C'est l'essentiel de ce qu'il faut retenir pour la partie sur les Organigrammes! 💻
 
+Maintenant vous avez deux possiblités:
+
+- Soit vous voulez tester vos aptitudes et effectuez le quiz sur [Brightspace]()
+
+- Soit vous préférez profiter de la richesse du site et appronfondir vos connaissances !
+
 Si vous vous sentez toujours perdu ou voulez approfondir votre connaissance, allez [ici.](./orga_ressources.md)
 
 Si vous voulez passer directement au exercices, c'est par [ici.](./orga_exercices.md)

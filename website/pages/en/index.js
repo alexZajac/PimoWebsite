@@ -62,6 +62,10 @@ class HomeSplash extends React.Component {
       <SplashContainer>
         {/* <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} /> */}
         <div className="inner">
+          <img
+            src={`${baseUrl}img/favicon.png`}
+            style={{ width: "10vw", height: "auto" }}
+          />
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
           <p>
             Bonjour à tous et bienvenue dans ce nouveau cours portant sur
@@ -132,7 +136,7 @@ class Index extends React.Component {
         {[
           {
             content:
-              "Liens des plateformes : \n\n Brightspace : https://testdevinci.brightspace.com/d2l/home/15827 \n\n Algorithm-Learning : https://algorithm-learning.netlify.com/ \n\n Contact ESILV : sonia.djebali@devinci.fr \n\n Plateforme “Algorithm-Learning” réalisée avec par les A4 : Alexandre ZAJAC, Léa YOUSSEF, Fanny ZHONG, Alban STEFF, Nicolas TOMAZO, Aron Szucs, Ariel TEDGUI, Tiphaine COLLOT et notre élève norvégien préféré Stian TEIEN.",
+              "Liens des plateformes : \n\n Brightspace : https://testdevinci.brightspace.com/d2l/home/15827 \n\n Algorithm-Learning : https://algorithm-learning.netlify.com/ \n\n Contact ESILV : sonia.djebali@devinci.fr \n\n Plateforme “Algorithm-Learning” réalisée avec ❤️ par les A4 : Alexandre ZAJAC, Léa YOUSSEF, Fanny ZHONG, Alban STEFF, Nicolas TOMAZO, Aron Szucs, Ariel TEDGUI, Tiphaine COLLOT et notre élève norvégien préféré Stian TEIEN.",
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: "right",
             title: "Accessible partout!"
