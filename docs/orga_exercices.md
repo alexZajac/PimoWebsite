@@ -36,7 +36,7 @@ Ecrire un organigramme qui modélise le système de chauffage suivant:
 - Si le chauffage est en marche, tant que la température est inférieure à 20°C, il reste dans le même état, sinon, il revient à l'étape de mise en tension.
 
 <details>
-<summary>**Correction possible**</summary>
+<summary>**Correction possible en vidéo**</summary>
 
 [<img src="http://i3.ytimg.com/vi/vKM4G3lBxls/maxresdefault.jpg">](https://www.youtube.com/watch?v=vKM4G3lBxls)
 

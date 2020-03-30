@@ -34,10 +34,14 @@ Exemple : POUR i=1 JUSQU’A 3 → la boucle sera exécutée 3 fois et non 2
 - Correction 1:
   ![formule](./assets/larp_1_exercice_2.png)
 
+**Correction vidéo**
+
 [<img src="http://i3.ytimg.com/vi/9SZ9GvubtIQ/maxresdefault.jpg">](https://www.youtube.com/watch?v=9SZ9GvubtIQ)
 
 - Correction 2:
   ![formule](./assets/larp_1_exercice_3.png)
+
+**Correction vidéo**
 
 [<img src="http://i3.ytimg.com/vi/A9mR8zHRHlc/hqdefault.jpg">](https://www.youtube.com/watch?v=A9mR8zHRHlc)
 
@@ -85,10 +89,14 @@ Ne pas oublier d’affecter une valeur au bonus dans le cas où le salaire est s
 - Correction 1:
   ![formule](./assets/larp_1_exercice_4.png)
 
+**Correction vidéo**
+
 [<img src="http://i3.ytimg.com/vi/8jM6vsHafxo/maxresdefault.jpg">](https://www.youtube.com/watch?v=8jM6vsHafxo)
 
 - Correction 2:
   ![formule](./assets/larp_1_exercice_5.png)
+
+**Correction vidéo**
 
 [<img src="http://i3.ytimg.com/vi/rDlNqN2s2F4/maxresdefault.jpg">](https://www.youtube.com/watch?v=rDlNqN2s2F4)
 
@@ -108,6 +116,8 @@ Reprendre l’énoncé de l’exercice 2 et créer l’organigramme correspondan
 - Correction 1:
 
 <img src="./assets/larp_1_exercice_6.png" alt="formule" width="600"/>
+
+**Correction vidéo**
 
 [http://i3.ytimg.com/vi/wJUMNqDVQwM/hqdefault.jpg](https://www.youtube.com/watch?v=wJUMNqDVQwM)
 

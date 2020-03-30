@@ -8,69 +8,65 @@ Voici quelques exercices corrigés pour t'entrainer sur les algorithmes.
 
 ---
 
-## Exercice 1 
+## Exercice 1
 
 Que fait cet algorithme ?
 
-	Variable 
-	N : entier
-	Debut
-	N ← 0
-	Ecrire "Entrez un nombre entre 1 et 3"
-	TantQue N < 1 ou N > 3
-		Lire N
-		Si N < 1 ou N > 3 Alors
-			Ecrire "Saisie erronée. Recommencez”
-		FinSi
-	FinTantQue
-	Fin
+    Variable
+    N : entier
+    Debut
+    N ← 0
+    Ecrire "Entrez un nombre entre 1 et 3"
+    TantQue N < 1 ou N > 3
+    	Lire N
+    	Si N < 1 ou N > 3 Alors
+    		Ecrire "Saisie erronée. Recommencez”
+    	FinSi
+    FinTantQue
+    Fin
 
 <details>
 <summary>**Correction possible**</summary>
 
 Cet algorithme demande à l’utilisateur un nombre compris entre 1 et 3 jusqu’à ce que la réponse convienne.
 
-[Explications en video](lien_vers_la_video)
 </details>
 
 ---
-## Exercice 2
 
+## Exercice 2
 
 Si on fait s’exécuter cet algorithme en lui donnant en entrée les valeurs 3, 7 et 12, qu’est-ce que l’algorithme affichera comme sortie ?
 
-	Variables :
-	type entier : a, b, c
-	a ← 0
-	b ← 0
-	c ← 0
-	Écrire « Entrer trois valeurs entières. »
-	Lire a, b, c
-	b ← a
-	c ← a
-	a ← b + c * 2
-	Écrire « Le résultat est : », a
-	Si a égale 8 OU a ≥ 3 alors
-		Écrire « Votez pour Pedro. »
-	Sinon si a ≥ 7
-		Écrire « ¡Hola! »
-	FinSi
+    Variables :
+    type entier : a, b, c
+    a ← 0
+    b ← 0
+    c ← 0
+    Écrire « Entrer trois valeurs entières. »
+    Lire a, b, c
+    b ← a
+    c ← a
+    a ← b + c * 2
+    Écrire « Le résultat est : », a
+    Si a égale 8 OU a ≥ 3 alors
+    	Écrire « Votez pour Pedro. »
+    Sinon si a ≥ 7
+    	Écrire « ¡Hola! »
+    FinSi
 
 <details>
 <summary>**Correction possible**</summary>
 
 L'algorithme affichera :
-	
-	Le résultat est : 9
-	Votez pour Pedro.
+Le résultat est : 9
+Votez pour Pedro.
 
-[Explications en video](lien_vers_la_video)
 </details>
 
-
 ---
-## Exercice 3
 
+## Exercice 3
 
 Ecrire un programme en pseudo-code qui lit le prix HT d’un article, le nombre d’articles et le taux de TVA, et qui fournit le prix total TTC correspondant. Faire en sorte que des libellés apparaissent clairement.
 
@@ -89,6 +85,3 @@ Ecrire un programme en pseudo-code qui lit le prix HT d’un article, le nombre 
 	Ecrire pttc
 
 </details>
-
-
-
