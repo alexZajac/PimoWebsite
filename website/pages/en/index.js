@@ -60,9 +60,21 @@ class HomeSplash extends React.Component {
 
     return (
       <SplashContainer>
-        <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} />
+        {/* <Logo img_src={`${baseUrl}img/undraw_monitor.svg`} /> */}
         <div className="inner">
           <ProjectTitle tagline={siteConfig.tagline} title={siteConfig.title} />
+          <p>
+            Bonjour à tous et bienvenue dans ce nouveau cours portant sur
+            l’algorithmie.
+          </p>
+          <p>
+            Dans ce cours vous allez apprendre à utiliser des outils qui vous
+            permettront de décrire vos algorithmes préférés. Plus précisément,
+            les organigrammes et le pseudo-code seront de la partie. Une
+            initiation à la programmation sera aussi à votre disposition au fil
+            de ce module.
+          </p>
+          <p>place pour la video</p>
           <PromoSection>
             <Button href={docUrl("algo.html")}>C'est parti !</Button>
           </PromoSection>
@@ -84,7 +96,7 @@ class Index extends React.Component {
         background={props.background}
       >
         <GridBlock
-          align="center"
+          align={props.align}
           contents={props.children}
           layout={props.layout}
         />
@@ -102,11 +114,11 @@ class Index extends React.Component {
     );
 
     const Resources = () => (
-      <Block id="try">
+      <Block id="try" align="right">
         {[
           {
             content:
-              "Un grande et vatriée quantité de contenu pour vous aider à comprendre ou aller plus loin.",
+              "Sur ce site, vous trouverez des vidéos d’explications du cours, des exercices corrigés et différentes ressources externes comme des vidéos youtube ou des sites web utiles. N’hésitez pas à vous entraîner plusieurs fois sur les exercices du site « Algorithm-Learning » afin d’être prêt pour le quizz qui se fera sur Brightspace. Bon courage et on vous souhaite d’apprendre plein de choses !",
             image: `${baseUrl}img/undraw_youtube_tutorial.svg`,
             imageAlign: "left",
             title: "Des ressources pour vous aider!"
@@ -116,11 +128,11 @@ class Index extends React.Component {
     );
 
     const Responsive = () => (
-      <Block background="dark">
+      <Block background="dark" align="left">
         {[
           {
             content:
-              "Visionnez et accédez au site depuis n'importe quel appareil: mobile, tablette ou ordinateur.",
+              "Liens des plateformes : \n\n Brightspace : https://testdevinci.brightspace.com/d2l/home/15827 \n\n Algorithm-Learning : https://algorithm-learning.netlify.com/ \n\n Contact ESILV : sonia.djebali@devinci.fr \n\n Plateforme “Algorithm-Learning” réalisée avec par les A4 : Alexandre ZAJAC, Léa YOUSSEF, Fanny ZHONG, Alban STEFF, Nicolas TOMAZO, Aron Szucs, Ariel TEDGUI, Tiphaine COLLOT et notre élève norvégien préféré Stian TEIEN.",
             image: `${baseUrl}img/undraw_note_list.svg`,
             imageAlign: "right",
             title: "Accessible partout!"
@@ -130,11 +142,11 @@ class Index extends React.Component {
     );
 
     const Recap = () => (
-      <Block background="light">
+      <Block background="light" align="left">
         {[
           {
             content:
-              "Récupérez des récaps avant chacune de vos séances de TD. Comme ça, vous pouvez vous concentrer sur ce qui est le plus important.",
+              "Pour évoluer dans les meilleures conditions, des élèves de 4ème année à l’ESILV vous ont concocté deux plateformes d’apprentissage qui seront là pour vous aider tout au long du module. La première, c’est Brightspace, que vous utiliserez régulièrement pour tous les cours à l’ESILV et qui vous permet d’accéder aux fichiers de cours et de faire vos quizz de cours qui seront potentiellement notés. Pour vous préparez au mieux à ces quizz, la plateforme d’apprentissage, mise en place par les étudiants d’A4 vous permettra de mieux comprendre chaque notion. Ainsi, avant de réaliser chaque quizz, vous devrez au préalable lire le contenu des différentes pages du site « Algorithm-Learning » pour être sûr d’avoir bien compris chaque notion présentée dans le cours.",
             image: `${baseUrl}img/undraw_code_review.svg`,
             imageAlign: "right",
             title: "N'oubliez plus vos fondamentaux!"
