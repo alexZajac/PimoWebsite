@@ -38,7 +38,7 @@ Ecrire un organigramme qui modélise le système de chauffage suivant:
 <details>
 <summary>**Correction possible**</summary>
 
-![correction1](./assets/orga_exercice_2.png)
+[<img src="http://i3.ytimg.com/vi/vKM4G3lBxls/maxresdefault.jpg">](https://www.youtube.com/watch?v=vKM4G3lBxls)
 
 </details>
 

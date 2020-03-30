@@ -23,15 +23,13 @@ Ecrire un algorithme qui demande à l’utilisateur les notes des 5 juges et qui
 
 <img src="./assets/larp_2_exercice_1_1.png" alt="formule" width="600"/>
 
-[Explications en video](lien_vers_la_video)
-
 **Module Principal**
 
 Ce module est plus ou moins similaire pour toutes les réponses possibles. Tout dépend de la quantité d’informations que l’on souhaite afficher à l’utilisateur.
 
 <img src="./assets/larp_2_exercice_1_2.png" alt="formule" width="600"/>
 
-[Explications en video](lien_vers_la_video)
+[<img src="http://i3.ytimg.com/vi/pnDF1Fn1cY4/hqdefault.jpg">](https://www.youtube.com/watch?v=pnDF1Fn1cY4)
 
 </details>
 
@@ -52,15 +50,13 @@ Le module PGCD peut être écrit de différentes manières selon l’algorithme 
 
 <img src="./assets/larp_2_exercice_2_1.png" alt="formule" width="600"/>
 
-[Explications en video](lien_vers_la_video)
-
 **Module Principal**
 
 Ce module est plus ou moins similaire pour toutes les réponses possibles. Tout dépend de la quantité d’informations que l’on souhaite afficher à l’utilisateur.
 
 <img src="./assets/larp_2_exercice_2_2.png" alt="formule" width="600"/>
 
-[Explications en video](lien_vers_la_video)
+[<img src="http://i3.ytimg.com/vi/SRTi8NZnc8U/hqdefault.jpg">](https://www.youtube.com/watch?v=SRTi8NZnc8U)
 
 </details>
 
@@ -81,15 +77,13 @@ Le module POLY peut être écrit de différentes manières selon l’algorithme 
 
 <img src="./assets/larp_2_exercice_3_1.png" alt="formule" width="600"/>
 
-[Explications en video](lien_vers_la_video)
-
 **Module Principal**
 
 Ce module est plus ou moins similaire pour toutes les réponses possibles. Tout dépend de la quantité d’informations que l’on souhaite afficher à l’utilisateur.
 
 <img src="./assets/larp_2_exercice_3_2.png" alt="formule" width="600"/>
 
-[Explications en video](lien_vers_la_video)
+[<img src="http://i3.ytimg.com/vi/5VB1_VpBdFQ/hqdefault.jpg">](https://www.youtube.com/watch?v=5VB1_VpBdFQ)
 
 </details>
 

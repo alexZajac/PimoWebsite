@@ -85,6 +85,8 @@ Supposez que vous ayez une fonction random qui renvoie "PILE" ou "FACE" de mani�
 
 Ecrire une fonction nommée lancer qui simule n lancer de dés, et qui prend en paramètre estPile. Si estPile est vrai, alors elle retourne le nombre de fois que pile a été obtenu, sinon, elle retourne le nombre de fois ou face a été obtenu:
 
+[<img src="http://i3.ytimg.com/vi/L5leqHanPLA/hqdefault.jpg">](https://www.youtube.com/watch?v=L5leqHanPLA)
+
 <details>
 <summary>**Correction possible**</summary>
 	

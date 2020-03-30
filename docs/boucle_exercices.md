@@ -83,6 +83,8 @@ Ecrire un programme qui affiche le plus petit entier n tel que 1² + 2² + 3² +
 Ecrire un algorithme qui demande successivement 20 nombres à l’utilisateur, et qui lui dise
 ensuite quel était le plus grand parmi ces 20 nombres :
 
+[<img src="http://i3.ytimg.com/vi/6dpJSOSDKXA/maxresdefault.jpg">](https://www.youtube.com/watch?v=6dpJSOSDKXA)
+
 <details>
 <summary>**Correction possible**</summary>
 	

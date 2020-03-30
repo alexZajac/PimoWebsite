@@ -67,7 +67,7 @@ Pense à utiliser les conditions (Si... Alors).
 Vous êtes au métro Grands Boulevards. Expliquez, étape par étape, comment se rendre au Manoir de
 Paris.
 
-![algo-exercice](./assets/algo_exercice_1.png)
+[<img src="http://i3.ytimg.com/vi/MD0moQw9slw/maxresdefault.jpg">](https://www.youtube.com/watch?v=MD0moQw9slw)
 
 <details>
 <summary>**Correction possible**</summary>
