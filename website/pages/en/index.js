@@ -78,7 +78,26 @@ class HomeSplash extends React.Component {
             initiation à la programmation sera aussi à votre disposition au fil
             de ce module.
           </p>
-          <p>place pour la video</p>
+          <p style={{ fontWeight: "bold" }}>
+            Voici une vidéo d'introduction sur notre projet :
+          </p>
+          <a
+            style={{
+              width: "50vw",
+              height: "auto"
+            }}
+            href="https://www.youtube.com/watch?v=CWbiIGPZY4c"
+            target="_blank"
+          >
+            <img
+              src="http://i3.ytimg.com/vi/CWbiIGPZY4c/maxresdefault.jpg"
+              style={{
+                width: "50vw",
+                height: "auto",
+                margin: "20px"
+              }}
+            />
+          </a>
           <PromoSection>
             <Button href={docUrl("algo.html")}>C'est parti !</Button>
           </PromoSection>
