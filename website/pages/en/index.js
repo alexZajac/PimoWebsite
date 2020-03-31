@@ -86,11 +86,11 @@ class HomeSplash extends React.Component {
               width: "50vw",
               height: "auto"
             }}
-            href="https://www.youtube.com/watch?v=CWbiIGPZY4c"
+            href="https://www.youtube.com/watch?v=KCYEiF6r44U"
             target="_blank"
           >
             <img
-              src="http://i3.ytimg.com/vi/CWbiIGPZY4c/maxresdefault.jpg"
+              src="http://i3.ytimg.com/vi/KCYEiF6r44U/maxresdefault.jpg"
               style={{
                 width: "50vw",
                 height: "auto",
