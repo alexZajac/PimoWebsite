@@ -91,7 +91,7 @@ Ne pas oublier d’affecter une valeur au bonus dans le cas où le salaire est s
 
 **Correction vidéo**
 
-[<img src="http://i3.ytimg.com/vi/8jM6vsHafxo/maxresdefault.jpg">](https://www.youtube.com/watch?v=8jM6vsHafxo)
+[<img src="http://i3.ytimg.com/vi/8jM6vsHafxo/hqdefault.jpg">](https://www.youtube.com/watch?v=8jM6vsHafxo)
 
 - Correction 2:
   ![formule](./assets/larp_1_exercice_5.png)
@@ -119,7 +119,7 @@ Reprendre l’énoncé de l’exercice 2 et créer l’organigramme correspondan
 
 **Correction vidéo**
 
-[http://i3.ytimg.com/vi/wJUMNqDVQwM/hqdefault.jpg](https://www.youtube.com/watch?v=wJUMNqDVQwM)
+[<img src="http://i3.ytimg.com/vi/wJUMNqDVQwM/hqdefault.jpg">](https://www.youtube.com/watch?v=wJUMNqDVQwM)
 
 - Correction 2:
 
