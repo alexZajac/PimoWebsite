@@ -61,7 +61,7 @@ C'est l'essentiel de ce qu'il faut retenir pour la partie sur les modules Larp! 
 
 Maintenant vous avez deux possiblités:
 
-- Soit vous voulez tester vos aptitudes et effectuez le quiz sur [Brightspace]()
+- Soit vous voulez tester vos aptitudes et effectuez le quiz sur [Brightspace](https://testdevinci.brightspace.com/d2l/le/content/15827/fullscreen/25103/ViewLocation?title=Quiz+7+-+LARP+Modules&location=%2fd2l%2flms%2fquizzing%2fuser%2fquiz_summary.d2l%3fqi%3d844%26ou%3d15827%26cfql%3d1%26isprv%3d1%26dnb%3d1)
 
 - Soit vous préférez profiter de la richesse du site et appronfondir vos connaissances !
 
